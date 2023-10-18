@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Home Page Structure -->
+            <div class="home-page" id="home-page">
+                <div class="intro">
+                    <div class="logo">
+                        <img class="testbook-logo" src="https://images.softwaresuggest.com/software_logo/1504588291_testbook-logo.png" alt="TestBook Logo">
+                    </div>
+                    <div class="hello-user">
+                        <h2>Hello User!</h2>
+                        <h4>Enter your name to play the quiz.</h3>
+                    </div>
+                    <div class="player-name">
+                        <div class="enter-name">
+                            <input type="text" class="input-name" value="Name" id="player-name" placeholder="Enter Your Name" autofocus>
+                        </div>
+                        <div class="enter-button" >
+                            <button type="submit" class="enter-btn" id="enter-btn">Enter</button>
+                        </div>
+                    </div>
+                    <div>
+                        <h6>You'll have 30 seconds to answer each question.</h3>
+                    </div>
+                    <hr class="line">
+                </div>
+                <div class="category" id="category">
+                    <div class="category-heading">
+                        <h3 class="category">Select category</h3>
+                    </div>
+                    <div class="category-buttons">
+                        <button class="category-btn" id="pipes-cistern">Pipes and Cistern</button>
+                        <button class="category-btn" id="probability">Probability</button>
+                        <button class="category-btn" id="age">Problems on age</button>
+                        <button class="category-btn" id="profit-loss">Profit and Loss</button>
+                        <button class="category-btn start-quiz-btn" id="start-quiz-btn">Start Quiz</button>
+                    </div>
+                </div>
+            </div>
+        <!-- quiz Page Structure -->
+        <div class="quiz-page" id="quiz-page">
+            <div class="category-name" id="category-name">
+                Pipes and Cistern
+            </div>
+            <div class="progress-bar" id="progress-bar">
+                <div class="timer" id="timer">300</div>
+                <div class="score" id="score">SCORE : 0</div>  
+            </div>
+            <div class="question-container">
+                <!-- Two pipes A and B can fill a cistern in 20 and 30 minutes respectively,
+and a third pipe C can empty it in 40 minutes. How long will it take to 
+fill the cistern if all the three are opened at the same time? -->
+            </div>
+            <div class="option-container" id="option-container">
+                <!-- <button class="option-btn">A. 19 1/7 min </button>
+                <button class="option-btn">B. 15 1/7 min</button>
+                <button class="option-btn">C. 17 1/7 min   ans</button>
+                <button class="option-btn">D. 7 1/7 min </button> -->
+            </div>
+            <hr>
+            <div class="fotter">
+                <div class="queNo" id="queNo">4 out of 10 Questions</div>
+                <button class="next-btn" id="next-btn">Next</button>
+                <button class="result-btn" id="result-btn">See Your Result</button>
+            </div>
+        </div>
+        <!-- Result page Structure -->
+        <div class="result-page" id="result-page">
+            <h2>Quiz result</h2>
+            <hr>
+            <hr>
+            <h4 class="done">You have completed the quiz.</h4>
+            <h4>Your result is as follow:</h4>
+            <div class="result-parameters" id="result-parameters">
+                <div class="tag score-tag">
+                    <span class="results-key">SCORE : </span>
+                    <span class="results-value">5</span>
+                </div>
+                <div class="tag">
+                    <span class="results-key">Total Questions : </span>
+                    <span class="results-value">10</span>
+                </div>
+                <div class="tag">
+                    <span class="results-key">Attempted Questions : </span>
+                    <span class="results-value">8</span>
+                </div>
+                <div class="tag">
+                    <span class="results-key">Correct : </span>
+                    <span class="results-value">7</span>
+                </div>
+                <div class="tag">
+                    <span class="results-key">Wrong : </span>
+                    <span class="results-value">1</span>
+                </div>
+                <div class="tag">
+                    <span class="results-key">Percentage : </span>
+                    <span class="results-value">60%</span>
+                </div>
+            </div>
+            <div>
+                <button class="start-again-btn" id="start-again-btn">Start Again</button>
+                <button class="home-btn" id="home-btn">Go to Home</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="questions.js"></script>
+</body>
+</html>

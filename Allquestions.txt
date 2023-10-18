@@ -1,0 +1,332 @@
+pipes and cuistern
+
+1.  
+Two pipes A and B can fill a cistern in 20 and 30 minutes respectively,
+and a third pipe C can empty it in 40 minutes. How long will it take to 
+fill the cistern if all the three are opened at the same time?
+A. 19 1/7 min   
+B. 15 1/7 min
+C. 17 1/7 min   ans
+D. 7 1/7 min
+
+2.
+Two pipes A and B can separately fill a tank in 2 minutes and 15 minutes respectively. 
+Both the pipes are opened together but 4 minutes after the start the pipe A is turned off. 
+How much time will it take to fill the tank?
+A. 9 min
+B. 10 min   ans
+C. 11 min
+D. 12 min
+
+3.
+Two pipes P and Q can fill a cistern in 12 and 15 minutes respectively. 
+Both are opened together, but at the end of 3 minutes the first is turned off. 
+How much longer will the cistern take to fill?
+A. 9 1/4 min
+B. 11 1/4 min   ans
+C. 7 1/4 min
+D. 8 1/2 min
+
+4.
+A cistern has a leak which would empty the cistern in 20 minutes. 
+A tap is turned on which admits 4 liters a minute into the cistern, and it is emptied 
+in 24 minutes. How many liters does the cistern hold?
+A. 480 liters   ans
+B. 600 liters
+C. 720 liters
+D. 800 liters
+
+5.
+Two taps can separately fill a cistern 10 minutes and 15 minutes respectively and
+ when the waste pipe is open, they can together fill it in 18 minutes. 
+ The waste pipe can empty the full cistern in?
+A. 7 min
+B. 13 min
+C. 23 min
+D. 9 min    ans
+
+6.
+A cistern is filled by a tap in 3 1/2 hours. Due to leak in the bottom of the cistern,
+it takes half an hour longer to fill the cistern. If the cistern is full how long will 
+it take the leak to empty it?
+A. 7 hours
+B. 8 hours
+C. 14 hours
+D. 28 hours      ans
+
+7.
+Two pipes A and B can fill a tank in 4 and 5 hours respectively. If they are turned 
+up alternately for one hour each, the time taken to fill the tank is?
+A. 2 hrs 15 min
+B. 4 hrs 24 min     ans
+C. 5 hrs
+D. 3 hrs
+
+8.
+Two pipes A and B can fill a cistern in 12 and 15 minutes respectively. 
+Both are opened together but after 3 minutes A is turned off. After how 
+much more time will the cistern be filled?
+A. 3 1/4 min
+B. 5 1/4 min
+C. 8 1/4 min        ans
+D. 9 1/4 min
+
+9.
+A cistern is normally filled in 8 hours but takes two hours longer to fill because
+ of a leak in its bottom. If the cistern is full, the leak will empty it in?
+A. 16 hrs
+B. 20 hrs
+C. 40 hrs       ans
+D. 25 hrs
+
+10.
+Two pipes A and B can separately fill a tank in 12 and 15 minutes respectively. 
+A third pipe C can drain off 45 liters of water per minute. If all the pipes are opened,
+the tank can be filled in 15 minutes. What is the capacity of the tank?
+A. 480 liters   
+B. 540 liters       ans
+C. 600 liters
+D. 675 liters
+
+------------------------------------------------------------------------------------------
+probability
+
+1.
+Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. 
+What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+A. 1/2
+B. 2/5
+C. 8/15
+D. 9/20     ans
+
+2.
+A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random.
+What is the probability that none of the balls drawn is blue?
+A. 10/21        ans
+B. 11/21
+C. 2/7
+D. 5/7
+
+3.
+In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?
+A. 1/3      ans
+B. 3/4
+C. 7/19
+D. 8/21
+
+4.
+What is the probability of getting a sum 9 from two throws of a dice?
+A. 1/6
+B. 1/8
+C. 1/9      ans
+D. 1/12
+
+5.
+Three unbiased coins are tossed. What is the probability of getting at most two heads?
+A. 3/4
+B. 1/4
+C. 3/8
+D. 7/8      ans
+
+6.
+Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?
+A. 1/2
+B. 3/4      ans
+C. 3/8
+D. 5/16
+
+7.
+In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability 
+that 1 girl and 2 boys are selected, is:
+A. 21/46        ans
+B. 25/117       
+C. 1/50
+D. 3/25
+
+8.
+In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is 
+the probability of getting a prize?
+A. 1/10
+B. 2/5
+C. 2/7      ans
+D. 5/7
+
+9.
+From a pack of 52 cards, two cards are drawn together at random. What is the probability
+of both the cards being kings?
+A. 1/15
+B. 25/57
+C. 35/256
+D. 1/221        anas
+
+
+10.
+Two dice are tossed. The probability that the total score is a prime number is:
+A. 1/6
+B. 5/12
+C. 1/2
+D. 7/9      ans
+
+-----------------------------------------------------------------------------------------------
+problems on age
+
+1.
+Father is four times the age of his daughter. If after 5 years, he would
+ be threee times of daughter’s age, then further after 5 years, 
+ how many times he would be of his daughter’s age?
+A. 1.5 times
+B. 2 times
+C. 2.5 times        ans        
+D. 3 times
+
+2. 
+What is Aman's present age, if after 20 years his age will be 10 times his age 10 years back?
+A. 6.2 years
+B. 7.7 years
+C. 13.3 years        ans
+D. 10 years
+
+3. 
+Nisha is 15 years elder to Romi. If 5 years ago, Nisha was 3 times 
+as old as Romi, then find Nisha’s present age.
+A. 32.5 years
+B. 27.5 years        ans
+C. 25 years
+D. 24.9 years
+
+4. 
+One year ago, the ratio of Honey and Piyush ages was 2: 3 respectively. After five
+ years from now, this ratio becomes 4: 5. How old is Piyush now?
+A. 5 years
+B. 25 years
+C. 10 years        ans
+D. 15 years
+
+5.
+Ten years ago, the age of mother was three times the age of her son. After ten years, 
+mother’s age will be twice that of his son. Find the ratio of their present ages.
+A. 11 : 7
+B. 9 : 5
+C. 7 : 4
+D. 7 : 3        ans
+
+6. 
+Saransh is 50 years old and Nazma is 40 years old. How long ago was the ratio of their ages 3:2?
+A. 20 years        ans
+B. 30 years
+C. 40 years
+D. 25 years
+
+7. 
+The ratio of the present ages of Pranav and Qureshi is 4:5. Five years ago, 
+the ratio of their ages was 7:9. Find their present ages? (In years)
+A. 40, 50        ans
+B. 18, 25
+C. 40, 60
+D. 20, 25
+
+8. 
+A man said to his son, "I was one-third of your present age when you were born". 
+If the present age of the man is 48 years, find the present age of the son.
+A. 25.7 years
+B. 28 years
+C. 29.3 years
+D. 36 years        ans
+
+9. 
+Dinesh is younger to Roshan by 9 years. If their ages are in the respective ratio of 4:5, how old is Dinesh?
+A. 36 years        ans
+B. 23years
+C. 29 years
+D. Cannot be determined
+
+10. 
+The ratio of Sara’s age 4 years ago and Vaishali’s age after 4 years is 1: 1. Presently, the ratio of their ages is 5: 3. Find the ratio between Sara’s age 4 years hence and Vaishali’s age 4 years ago.
+A. 1 : 3
+B. 3 : 1        ans
+C. 4 : 3
+D. 3 : 4
+----------------------------------------------------------------------------------------------------------------
+profit and loss
+
+1.
+A real estate agent sells two sites for Rs. 18000 each. On one he gains 25% and
+on the other he loses 25 %. What is his loss or gain percent?
+A. 6.25 % gain
+B. 6.25% loss        ans
+C. No profit no loss
+D. 4% loss
+
+2. 
+If a retailer marks up his price by 30 % and then allows a 30 % discount, 
+what is his percentage profit or loss?
+A. 9 % gain
+B. 8 % gain
+C. 8% loss
+D. 9 % loss        ans
+
+3. 
+By selling an article for Rs 600 more, Karthik would have made 5% profit
+ on his sale instead of a 11% loss. What was his cost price?
+A. Rs. 3750        ans
+B. Rs. 4000
+C. Rs. 2250
+D. Rs. 6,000
+
+4. 
+I make a profit of 20% by selling an article. What would be the profit percent 
+if it were calculated on the selling price instead of the cost price?
+A. 10 %
+B. 20%
+C. 30%
+D. 16.67%        ans
+
+5. 
+A tradesman marks his goods 25% above the cost price and allows his customers
+ 12 % reduction on their bills. What percent profit does he make?
+A. 14 %
+B. 10%        ans
+C. 18%
+D. 12.5%
+
+6. 
+In order to maintain the price line, a trader allows a discount of 12 %
+on the marked price of goods in his ship. However, he still makes a gross profit
+of 32 % on the cost price. Find the profit percent he would have made on the selling
+price had he sold at the marked price.
+A. 28.07 %
+B. 50 %        ans
+C. 31.21 %
+D. 23 %
+
+7. 
+An orange vendor makes a profit of 10% by selling oranges at a certain price. 
+If he charges Rs. 1.4 higher per orange he would gain 30%. Find the original price at which he sold an orange.
+A. Rs. 6
+B. Rs. 5.80
+C. Rs. 6.25
+D. Rs 7.70        ans
+
+8. 
+A man bought a horse for a certain sum and sold it, at a loss of 8 % on his outlay.
+If he had received Rs. 1800 more, he would have gained 14½ % on his outlay. What did the horse cost?
+A. Rs. 3,500
+B. Rs. 5,000
+C. Rs. 6,000
+D. Rs. 8,000        ans
+
+9. 
+Divya made a profit of 25% when selling a Salwar Kameez at Rs. 4,000. 
+Find the cost price of the same dress.
+A. Rs. 4,800
+B. Rs. 3,650
+C. Rs. 3,200        ans
+D. Rs. 3,000
+
+10.
+What profit percent is made by selling an article at a certain price if by selling
+at four-fifth of that price there may be a loss of 12 %?
+A. 10 %        ans
+B. 25 %
+C. 42 %
+D. 20 %

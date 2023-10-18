@@ -1,0 +1,238 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #001e4d;
+    color: #222;  
+}
+/* -------------    Home Page Styling       ----------- */
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    .home-page {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        max-width: 600px;
+        height: fit-content;
+        text-align: center;
+        padding: 10px;                             
+    }
+    .home-page div {
+        margin: 8px;
+    }
+    .testbook-logo {
+        height: 70px;
+        width: 70px;
+        border-radius: 10px;
+    }
+    h2, h3 {
+        margin: 8px;
+    }
+    .player-name {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .input-name {
+        border: 1px solid black;
+        border-radius: 4px;
+        padding: 3px 10px;
+        font-weight: 500;
+        font-size: small;
+    }
+    .category h3 {
+        margin-top: 20px;
+    }
+    .enter-btn {
+        border-radius: 4px;
+        font-weight: 400;
+        letter-spacing: 1px;
+        padding: 3px 10px;
+        background-color: #5bbcc7;
+        color: #222;
+        cursor: pointer;
+        border: 0.5px solid black;
+        transition: all 0.3s;
+    }
+    .enter-btn:hover {
+        background: #001e4d;
+        color: white;
+    }
+    .category-btn {
+        width: 30%;
+        padding: 3px;
+        margin: 10px; 
+        letter-spacing: 0.5px; 
+        cursor: pointer;
+    }
+    .start-quiz-btn, .next-btn, .result-btn {
+        letter-spacing: 1px;
+        background-color: #5bbcc7;
+        color: #222;
+        transition: all 0.3s;
+        border: 0.5px solid black;
+        border-radius: 4px;
+    }
+    .start-quiz-btn:hover {
+        background: #001e4d;
+        color: white;
+    }
+    
+/* -------------        Quiz page Styling       ----------------- */
+    .quiz-page {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        background: white;
+        color: black;
+        min-width: 450px;
+        opacity: 0;
+        pointer-events: none;
+        transform: translate(-50%, -50%);
+        }
+    .category-name {
+        text-align: center;
+        font-size: large;
+        font-weight: 700;
+        margin: 15px auto 10px auto;
+    }
+    .progress-bar {
+        display: flex;
+        justify-content: space-between;
+        margin: 5px auto;
+        padding: 10px 20px;
+
+    }
+    .timer {
+        border: 2px solid #001e4d;
+        height: 30px;
+        width: 50px;
+        border-radius: 35px;
+        padding: 5px;
+        font-weight: 600;
+        letter-spacing: 1px;
+        background: rgb(247, 246, 246);
+    }
+    .score {
+        font-weight: 510;
+    }
+    .question-container {
+        border: 2px solid #001e4d;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 10px;
+        text-align: justify;
+    }
+    .option-container {
+        display: grid;
+        grid-template-columns: repeat(2, 50%);
+        grid-row-gap: 15px;
+        margin: 10px;
+        padding: 15px;
+    }
+    .option-btn {
+        width: 180px;
+        height: 30px;
+        padding: 4px;
+        margin: auto; 
+        letter-spacing: 0.5px; 
+        cursor: pointer;
+        background: rgba(232, 231, 231, 0.418);
+        border: 0.2px solid ;
+        border-radius: 3px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .option-btn:hover{
+        box-shadow: 0 0 0 2px rgba(7, 103, 248, 0.40);
+    }
+    /* style when option is correct */
+    .option-btn.correct {
+        background: rgba(144, 238, 144, 0.4);
+        border-color: rgb(3, 148, 3);
+    }
+    /* style when option is incorrect */
+    .option-btn.incorrect {
+        background-color: rgba(242, 118, 76, 0.624);
+        border-color: red;
+    }
+    /* style when once selected a option */
+    .option-btn.disabled {
+        pointer-events: none;
+    }
+    /* style when wrong oprion selected */
+    .option-btn.auto-show-correct {
+        background: rgba(144, 238, 144, 0.4);
+        border-color: rgb(3, 148, 3);
+    }
+    .fotter {
+        display: flex;
+        justify-content: space-between;
+        padding: 15px 20px;
+    }
+    .next-btn, .result-btn {
+        padding: 5px;
+    }
+    .next-btn:hover{
+        background: #001e4d;
+        color: white;
+    } 
+    .result-btn:hover{
+        background: #001e4d;
+        color: white;
+
+    }
+/* -------------        Result page Styling       ----------------- */
+    .result-page {
+        background: white;
+        position: absolute;
+        top: 50%;
+        left: 50%;        
+        padding: 30px;
+        text-align: center;
+        opacity: 0;
+        pointer-events: none;
+        transform: translate(-50%,-50%);
+    }
+    .result-page .done {
+        margin-top: 20px;  
+    }
+    .result-parameters {
+        margin: 8px;
+    }
+    .start-again-btn, .home-btn {
+        background: rgb(198, 227, 252);
+        width: 100px;
+        height: 30px;
+        padding: 5px 10px;
+        margin: 10px 30px;
+        border-radius: 4px;
+    }
+    .start-again-btn:hover, .home-btn:hover {
+        box-shadow: 0 0 0 2px rgba(7, 103, 248, 0.40);
+        background: #001e4d;
+        color: white;
+    }
+    /* Activating QuizPage */
+    .quiz-page.active , .result-page.active {
+        opacity: 1;
+        pointer-events: auto;
+        transform: translate(-50%, -50%) scale(1);
+        z-index: 5;
+    }
+    /* inactivating home page */
+    .home-page.inactiveHome {
+        opacity: 0;
+        pointer-events: none;
+        transform: translate(-50%, -50%);
+    }
+    
